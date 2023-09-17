@@ -1,6 +1,7 @@
 # ChatPDF
 
-This is a PDF summarizer website using LangChain framework. 
+This is a PDF summarizer website using LangChain framework. The idea behind this website is to help students get the summary of PDFs of study material to help them study easier. The future idea is to expand this to a website where students upload their PDF and are asked questions based on the summary generated to aid their revision along with periodic revision by sending notifications or emails, where each student has their own account and their own study material. 
+
 To access the website, run the following commands:
 
 # First run this command
